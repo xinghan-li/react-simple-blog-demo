@@ -10,7 +10,7 @@ The project demonstrates modern frontend development practices and is hosted on 
 
 The practice is inspired by YouTube channel [PedroTech].
 
-Visit: 
+Visit: https://react-demo-with-pedro.web.app/
 
 for demo. Rendering may take 30 - 50 seconds.
 
