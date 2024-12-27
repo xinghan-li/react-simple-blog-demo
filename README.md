@@ -4,16 +4,17 @@
 
 # React + TypeScript + Vite Demo
 
-This is a simple toy project built using React, TypeScript, and Vite. 
+This is a simple toy project built using React, TypeScript, Vite, and Firebase Hosting. 
 
 The project demonstrates modern frontend development practices and is hosted on Firebase Hosting.
 
-## Features
+The practice is inspired by YouTube channel [PedroTech].
 
-- **Vite**: Fast and modern build tool for frontend projects.
-- **React**: A powerful JavaScript library for building user interfaces.
-- **TypeScript**: Type-safe development with static typing.
-- **Firebase Hosting**: Quick and reliable deployment of static files.
+Visit: 
+
+for demo. Rendering may take 30 - 50 seconds.
+
+
 
 ## Project Structure
 
