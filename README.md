@@ -20,6 +20,7 @@ The project demonstrates modern frontend development practices and is hosted on 
 ```plaintext
 ├── src/                # Source code
 │   ├── components/     # Reusable React components
+│   ├── pages/          # Web Pages
 │   ├── App.tsx         # Main application entry
 │   └── main.tsx        # ReactDOM render
 ├── public/             # Static assets
