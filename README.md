@@ -53,3 +53,4 @@ export default tseslint.config({
 ```
 >>>>>>> master
 # react-simple-blog-demo
+# react-simple-blog-demo
